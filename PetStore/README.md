@@ -10,6 +10,7 @@ Artifacts include:
 
 - Bug Reports
 - Test cases
+- STLC
 
 Documentation available in the project folder.
 
@@ -27,3 +28,6 @@ Description of the...
 🔗 Link: https://docs.google.com/spreadsheets/d/1Xk1Y980X72aaOx7QtsdGvygX8lxPWyoEH9iH15Jqew0/edit?gid=327315097#gid=327315097
 
 🔗 Link: https://docs.google.com/spreadsheets/d/1OQbxsNKv8CIIX4BS4uiLEV4Xultq1vSjsm7NcFA01u4/edit?gid=327315097#gid=327315097
+
+### STLC - checklist, bugs, report
+🔗 Link: https://docs.google.com/spreadsheets/d/1Mq2McntUhmN-XS1-NA0chRGHctw0RY8AITIPD1AMs8M/edit?gid=0#gid=0
