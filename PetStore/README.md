@@ -9,6 +9,7 @@ Test documentation prepared for the PetStore website.
 Artifacts include:
 
 - Bug Reports
+- Test cases
 
 Documentation available in the project folder.
 
