@@ -16,7 +16,7 @@ Conduit:
 Hundt:
 - 
 PetStore:
-- 
+- bug reports
 ### Mobile testing
 Testing of mobile applications:
 IMDB
