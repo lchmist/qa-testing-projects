@@ -15,13 +15,25 @@ Manual testing project for the Conduit application.
 
 ## Artifacts
 
+- Decomposition
 - Test plan
 - Test cases
 - Decision table
 - Bug reports
 
-## cos tam
 
 # Decomposition
 
 Link: https://docs.google.com/document/d/1NwLsxj-uCWdDx38Ru4mLqmsDvMDxCMLgc_UHVwq3PqE/edit?usp=sharing
+
+# Test plan
+
+Link: 
+
+# Decision table
+
+Link:
+
+# Bug reports
+
+Link:
