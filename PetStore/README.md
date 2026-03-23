@@ -21,3 +21,6 @@ Description of the...
 🔗 Link: https://docs.google.com/spreadsheets/d/1ubXwiesb8AvuYu5RGH9Gw3FlrHJRDrPL2fYnIX5p-Ak/edit?usp=sharing (dodać załączniki do błędów i jeszcze raz przeczytać czy się wszystko zgadza)
 
 ---
+
+### Test cases
+🔗 Link: https://docs.google.com/spreadsheets/d/1Xk1Y980X72aaOx7QtsdGvygX8lxPWyoEH9iH15Jqew0/edit?gid=327315097#gid=327315097
