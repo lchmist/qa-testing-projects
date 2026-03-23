@@ -8,17 +8,20 @@ This repository contains sample QA testing projects.
 ## Projects
 
 ### Web testing
-Conduit application testing:
+Conduit:
 - test plan
 - test cases
 - decision tables
 - bug reports
-
+Hundt:
+- 
+PetStore:
+- 
 ### Mobile testing
 Testing of mobile applications:
-- IMDB
-- Evernote
-- Handyman
+IMDB
+Evernote
+Handyman
 
 ### API testing
 REST API testing using Postman:
