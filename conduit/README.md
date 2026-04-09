@@ -28,7 +28,7 @@ Link: https://docs.google.com/document/d/1NwLsxj-uCWdDx38Ru4mLqmsDvMDxCMLgc_UHVw
 
 # Test plan
 
-Link: 
+Link: https://docs.google.com/document/d/1haL9lMKCCNs7Q7EtcWHnIop6o7KKn302HvJaUcsXrBI/edit?usp=sharing
 
 # Decision table
 
