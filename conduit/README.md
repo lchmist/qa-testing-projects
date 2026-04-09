@@ -32,7 +32,7 @@ Link: https://docs.google.com/document/d/1haL9lMKCCNs7Q7EtcWHnIop6o7KKn302HvJaUc
 
 # Decision table
 
-Link:
+Link: https://docs.google.com/spreadsheets/d/1Scn0rXLoPC50y9rhM6sdg77yeSt_DvWBYUqp-1H2-bQ/edit?usp=sharing
 
 # Bug reports
 
