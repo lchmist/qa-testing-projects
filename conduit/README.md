@@ -20,7 +20,7 @@ Manual testing project for the Conduit application.
 - Test cases
 - Decision table
 - Bug reports
-*- Pairwaise technique
+- *Pairwaise technique
 
 # Decomposition
 
