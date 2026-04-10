@@ -19,8 +19,7 @@ Manual testing project for the Conduit application.
 - Test plan
 - Test cases
 - Decision table
-- Bug reports
-- *Pairwaise technique
+- Pairwaise technique
 
 # Decomposition
 
@@ -34,10 +33,6 @@ Link: https://docs.google.com/document/d/1haL9lMKCCNs7Q7EtcWHnIop6o7KKn302HvJaUc
 
 Link: https://docs.google.com/spreadsheets/d/1Scn0rXLoPC50y9rhM6sdg77yeSt_DvWBYUqp-1H2-bQ/edit?usp=sharing
 
-# Bug reports
-
-Link:
-
-# *- Pairwaise technique
+# Pairwaise technique
 
 Link: https://docs.google.com/spreadsheets/d/1h3C44sxMmXtCXn_SD_PMBQJtOjde261PquieHe85R50/edit?usp=sharing
