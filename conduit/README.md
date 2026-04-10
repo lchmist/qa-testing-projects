@@ -23,16 +23,16 @@ Manual testing project for the Conduit application.
 
 # Decomposition
 
-Link: https://docs.google.com/document/d/1NwLsxj-uCWdDx38Ru4mLqmsDvMDxCMLgc_UHVwq3PqE/edit?usp=sharing
+🔗 Link: https://docs.google.com/document/d/1NwLsxj-uCWdDx38Ru4mLqmsDvMDxCMLgc_UHVwq3PqE/edit?usp=sharing
 
 # Test plan
 
-Link: https://docs.google.com/document/d/1haL9lMKCCNs7Q7EtcWHnIop6o7KKn302HvJaUcsXrBI/edit?usp=sharing
+🔗 Link: https://docs.google.com/document/d/1haL9lMKCCNs7Q7EtcWHnIop6o7KKn302HvJaUcsXrBI/edit?usp=sharing
 
 # Decision table
 
-Link: https://docs.google.com/spreadsheets/d/1Scn0rXLoPC50y9rhM6sdg77yeSt_DvWBYUqp-1H2-bQ/edit?usp=sharing
+🔗 Link: https://docs.google.com/spreadsheets/d/1Scn0rXLoPC50y9rhM6sdg77yeSt_DvWBYUqp-1H2-bQ/edit?usp=sharing
 
 # Pairwaise technique
 
-Link: https://docs.google.com/spreadsheets/d/1h3C44sxMmXtCXn_SD_PMBQJtOjde261PquieHe85R50/edit?usp=sharing
+🔗 Link: https://docs.google.com/spreadsheets/d/1h3C44sxMmXtCXn_SD_PMBQJtOjde261PquieHe85R50/edit?usp=sharing
