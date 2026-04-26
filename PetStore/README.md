@@ -17,7 +17,6 @@ Documentation available in the project folder.
 ## Test Artifacts
 
 ### Bug reports
-Description of the...
 
 🔗 Link: https://docs.google.com/spreadsheets/d/1_37miNwKLPi1ynhlpqMba7ftAAu-MPG0iycm5ou7oEs/edit?gid=1478349058#gid=1478349058
 
