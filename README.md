@@ -5,6 +5,14 @@ Manual QA testing portfolio – web, mobile and API testing projects
 
 This repository contains sample QA testing projects.
 
+## Tools used
+
+- Jira
+- TestRail
+- Postman
+- Android Studio (Logcat)
+- VS Code
+
 ## Projects
 
 ### Web testing
@@ -38,11 +46,3 @@ REST API testing using Postman:
 - HTTP requests
 - endpoint validation
 - Postman test scripts
-
-## Tools used
-
-- Jira
-- TestRail
-- Postman
-- Android Studio (Logcat)
-- VS Code
