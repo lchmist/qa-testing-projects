@@ -8,11 +8,24 @@ This repository contains sample QA testing projects.
 ## Projects
 
 ### Web testing
-Conduit application testing:
+Conduit website testing:
 - test plan
 - test cases
 - decision tables
 - bug reports
+
+PetStore website testing:
+- bug reports
+- test cases
+- STLC
+
+Hundt website testing:
+- test plan
+- functional decomposition
+- requirement traceability matrix (RTM)
+- permission Table
+- test Summary
+
 
 ### Mobile testing
 Testing of mobile applications:
@@ -32,3 +45,4 @@ REST API testing using Postman:
 - TestRail
 - Postman
 - Android Studio (Logcat)
+- VS Code
