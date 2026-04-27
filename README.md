@@ -1,6 +1,7 @@
 # QA Testing Projects
 
-Junior QA Engineer with experience in web, mobile, and API testing. I focus on analysis, bug detection, and improving product quality in real user scenarios.
+Junior QA Engineer with experience in web, mobile, and API testing. 
+I focus on analysis, bug detection, and improving product quality in real user scenarios.
 
 ## About this repository
 This repository showcases my QA testing projects, including test documentation, bug reports, and practical testing examples.
