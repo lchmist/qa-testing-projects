@@ -2,10 +2,6 @@
 
 Testing documentation created for the Huntd application.
 
-### Huntd Application Testing
-
-Test documentation prepared for the Huntd application.
-
 Artifacts include:
 
 - Test Plan
