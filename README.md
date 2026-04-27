@@ -45,3 +45,4 @@ REST API testing using Postman:
 - TestRail
 - Postman
 - Android Studio (Logcat)
+- VS Code
