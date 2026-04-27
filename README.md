@@ -5,6 +5,8 @@ Junior QA Engineer with experience in web, mobile, and API testing. I focus on a
 ## About this repository
 This repository showcases my QA testing projects, including test documentation, bug reports, and practical testing examples.
 
+Projects are organized into separate branches for easier navigation.
+
 ## Tools used
 
 - Jira
