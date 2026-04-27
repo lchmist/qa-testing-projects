@@ -48,6 +48,6 @@ Applications tested:
 ### API Testing
 
 REST API testing using Postman:
-- Creating HTTP requests (GET, POST, PUT, DELETE)  
+- Creating HTTP requests 
 - Designing test scenarios  
 - Validating responses (status codes, data)  
