@@ -1,9 +1,9 @@
-# qa-testing-projects
-Manual QA testing portfolio – web, mobile and API testing projects
+# QA Testing Projects
 
-# QA Testing Portfolio
+Junior QA Engineer with experience in web, mobile, and API testing. I focus on analysis, bug detection, and improving product quality in real user scenarios.
 
-This repository contains sample QA testing projects.
+## About this repository
+This repository showcases my QA testing projects, including test documentation, bug reports, and practical testing examples.
 
 ## Tools used
 
@@ -16,33 +16,34 @@ This repository contains sample QA testing projects.
 ## Projects
 
 ### Web testing
-Conduit website testing:
-- test plan
-- test cases
-- decision tables
-- bug reports
+**Conduit**
+- Test plan  
+- Test cases  
+- Decision tables  
+- Bug reports  
 
-PetStore website testing:
-- bug reports
-- test cases
-- STLC
+**PetStore**
+- Test cases  
+- Bug reports  
+- STLC  
 
-Hundt website testing:
-- test plan
-- functional decomposition
-- requirement traceability matrix (RTM)
-- permission Table
-- test Summary
+**Hundt**
+- Test plan  
+- Functional decomposition  
+- Requirement Traceability Matrix (RTM)  
+- Permission table  
+- Test summary
 
+### Mobile Testing
 
-### Mobile testing
-Testing of mobile applications:
-- IMDB
-- Evernote
-- Handyman
+Applications tested:
+- IMDB  
+- Evernote  
+- Handyman  
 
-### API testing
+### API Testing
+
 REST API testing using Postman:
-- HTTP requests
-- endpoint validation
-- Postman test scripts
+- Creating HTTP requests (GET, POST, PUT, DELETE)  
+- Designing test scenarios  
+- Validating responses (status codes, data)  
