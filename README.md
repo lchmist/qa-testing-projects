@@ -16,6 +16,7 @@ Projects are organized into separate branches for easier navigation.
 - Postman
 - Android Studio (Logcat)
 - VS Code
+- DevTools
 
 ## Projects
 
