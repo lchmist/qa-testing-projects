@@ -2,10 +2,6 @@
 
 Testing documentation created for the PetStore website.
 
-### PetStore Website Testing
-
-Test documentation prepared for the PetStore website.
-
 Artifacts include:
 
 - Bug Reports
