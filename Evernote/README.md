@@ -36,11 +36,9 @@ The goal was to verify whether the Evernote mobile application works according t
 └── evidence/
     ├── screenshots/
     │   ├── bug_01_large_attachment_mobile_data_jira.png
-    │   ├── bug_02_landscape_more_menu_cut_jira.png
-    │   └── bug_03_no_network_error_jira.png
+    │   └── bug_02_landscape_more_menu_cut_jira.png
     └── videos/
-        ├── bug_01_large_attachment_mobile_data.mp4
-        └── bug_03_no_network_error.mp4
+        └── bug_01_large_attachment_mobile_data.mp4
 ```
 
 ## Reported defects
@@ -94,37 +92,13 @@ The top part of the "More" menu is cut off and cannot be accessed properly.
 
 * [Jira screenshot](evidence/screenshots/bug_02_landscape_more_menu_cut_jira.png)
 
----
+## Retesting notes
 
-### Bug 03 — No error message is displayed for network-dependent actions while offline
-
-**Checklist area:** Functional checklist
-**Priority:** Medium
-**Environment:** Samsung Galaxy S20+ 5G, Android 10, Evernote 11.19.2
-
-**Steps to reproduce:**
-
-1. Disconnect from the internet or switch to offline mode.
-2. Open the application.
-3. Try to perform an action that requires an internet connection, for example synchronization, downloading an attachment, or opening online content.
-4. Observe the application behavior.
-
-**Expected result:**
-The application should display a clear error message, for example: "Network error. Please try again later."
-
-**Actual result:**
-No network error message is displayed after performing a network-dependent action while offline.
-
-**Note:**
-The application may support offline mode, but the user should still receive clear feedback when an action cannot be completed due to lack of internet connection.
-
-**Evidence:**
-
-* [Jira screenshot](evidence/screenshots/bug_03_no_network_error_jira.png)
-* [Video attachment](evidence/videos/bug_03_no_network_error.mp4)
+During retesting, the previously considered issue related to the missing internet connection message was not reported as a defect. The application displays feedback when there is no internet connection, so this behavior was treated as a passed checklist item rather than a bug.
 
 ## Notes
 
 The original Jira project was used to manage and report this testing task. Due to limited access to Jira, screenshots, videos, and descriptions of the reported issues are included in this repository as evidence of completed work.
+
 
 
