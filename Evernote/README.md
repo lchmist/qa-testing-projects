@@ -92,9 +92,6 @@ The top part of the "More" menu is cut off and cannot be accessed properly.
 
 * [Jira screenshot](evidence/screenshots/bug_02_landscape_more_menu_cut_jira.png)
 
-## Retesting notes
-
-During retesting, the previously considered issue related to the missing internet connection message was not reported as a defect. The application displays feedback when there is no internet connection, so this behavior was treated as a passed checklist item rather than a bug.
 
 ## Notes
 
