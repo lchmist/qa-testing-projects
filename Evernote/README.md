@@ -4,7 +4,7 @@
 
 This repository contains manual testing documentation for the Evernote mobile application.
 
-The testing process was originally documented in Jira. Since access to the Jira project is time-limited, the most important information has been moved to this GitHub repository. The repository includes the testing checklist, a summary of reported defects, and evidence in the form of screenshots and videos.
+The testing process was originally documented in Jira.The most important information has been moved to this GitHub repository. The repository includes the testing checklist, a summary of reported defects, and evidence in the form of screenshots and videos.
 
 ## Tested application
 
