@@ -58,10 +58,10 @@ The goal was to verify whether the IMDb mobile application works according to ex
 4. Observe the displayed message.
 
 **Expected result:**
-The application should clearly inform the user that there is no internet connection.
+The application clearly inform the user that there is no internet connection.
 
 **Actual result:**
-The application displays a generic error message instead of clearly informing the user that the device is offline.
+The app does not display an error message or notify the user that the device is offline.
 
 **Note:**
 The message does not clearly explain that the issue is caused by missing internet connection, which may confuse the user.
