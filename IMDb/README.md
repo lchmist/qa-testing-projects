@@ -13,7 +13,7 @@ The testing process was originally documented in Jira. The most important inform
 **Platform:** Android mobile application
 **Testing type:** Checklist-based manual testing
 **Device:** Samsung Galaxy S20+ 5G
-**Operating system:** Android 10
+**Operating system:** Android 13
 **Application version:** [enter app version]
 
 ## Scope of testing
