@@ -48,7 +48,7 @@ The goal was to verify whether the IMDb mobile application works according to ex
 
 **Checklist area:** Functional checklist
 **Priority:** Medium
-**Environment:** Samsung Galaxy S20+ 5G, Android 10, IMDb, version [enter app version]
+**Environment:** Samsung Galaxy S20+ 5G, Android 13, IMDb, version [enter app version]
 
 **Steps to reproduce:**
 
