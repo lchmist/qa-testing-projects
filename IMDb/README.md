@@ -69,7 +69,7 @@ The message does not clearly explain that the issue is caused by missing interne
 **Evidence:**
 
 * [Jira screenshot](evidence/screenshots/bug_01_no_clear_internet_connection_message_jira.png)
-* [Video attachment](evidence/videos/bug_01_no_clear_internet_connection_message.mov)
+* [Video attachment](evidence/videos/bug_01_no_clear_internet_connection_message_jira.mp4)
 
 ---
 
