@@ -14,7 +14,7 @@ The testing process was originally documented in Jira. The most important inform
 **Testing type:** Checklist-based manual testing
 **Device:** Samsung Galaxy S20+ 5G
 **Operating system:** Android 13
-**Application version:** [enter app version]
+**Application version:** 9.3.2.03
 
 ## Scope of testing
 
@@ -48,7 +48,7 @@ The goal was to verify whether the IMDb mobile application works according to ex
 
 **Checklist area:** Functional checklist
 **Priority:** Medium
-**Environment:** Samsung Galaxy S20+ 5G, Android 13, IMDb, version [enter app version]
+**Environment:** Samsung Galaxy S20+ 5G, Android 13, IMDb, version 9.3.2.03
 
 **Steps to reproduce:**
 
@@ -77,7 +77,7 @@ The message does not clearly explain that the issue is caused by missing interne
 
 **Checklist area:** Functional checklist / Security
 **Priority:** Medium
-**Environment:** Samsung Galaxy S20+ 5G, Android 10, IMDb, version [enter app version]
+**Environment:** Samsung Galaxy S20+ 5G, Android 10, IMDb, version 9.3.2.03
 
 **Steps to reproduce:**
 
