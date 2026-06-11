@@ -77,7 +77,7 @@ The message does not clearly explain that the issue is caused by missing interne
 
 **Checklist area:** Functional checklist / Security
 **Priority:** Medium
-**Environment:** Samsung Galaxy S20+ 5G, Android 10, IMDb, version 9.3.2.03
+**Environment:** Samsung Galaxy S20+ 5G, Android 13, IMDb, version 9.3.2.03
 
 **Steps to reproduce:**
 
@@ -88,13 +88,13 @@ The message does not clearly explain that the issue is caused by missing interne
 5. Submit the registration form.
 
 **Expected result:**
-The application should prevent users from creating accounts with easily guessable passwords or should require a more secure password format.
+The application prevent users from creating accounts with easily guessable passwords or should require a more secure password format.
 
 **Actual result:**
 The application accepts any 6-character password. The only displayed requirement is a minimum length of 6 characters.
 
 **Note:**
-No explicit password complexity requirement was provided. However, allowing users to register with any 6-character password may be insecure, because passwords such as "123456" or "aaaaaa" are easy to guess and may increase the risk of unauthorized account access.
+No explicit password complexity requirement was provided. Allowing users to register with any 6-character password may be insecure, because passwords such as "123456" or "aaaaaa" are easy to guess and may increase the risk of unauthorized account access.
 
 **Evidence note:**
 Screenshots and screen recording are blocked by the application on the registration screen, so visual evidence could not be attached. The issue was verified manually during testing.
@@ -103,11 +103,6 @@ Screenshots and screen recording are blocked by the application on the registrat
 
 * [Jira screenshot](evidence/screenshots/bug_02_insecure_password_policy_jira.png)
 
-## Performance observation
-
-CPU usage was observed during manual testing. CPU usage was approximately 32% before the test and increased to around 40% during active app usage, with temporary peaks up to 44%. This behavior was considered acceptable because the increase occurred during user interaction and no sustained abnormal CPU usage was observed.
-
-No obvious memory leak symptoms, abnormal battery drain, or device overheating were observed during the manual test session.
 
 ## Notes
 
