@@ -10,9 +10,9 @@ Artifacts include:
 
 * Test Plan
 * Test Scenarios
-* Test Cases
+* Test Cases (TestRail)
 * Requirement Traceability Matrix (RTM)
-* Bug Reports
+* Bug Reports (Jira)
 * Chrome DevTools Testing
 * Test Summary
 
