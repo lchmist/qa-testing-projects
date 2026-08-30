@@ -2,6 +2,8 @@
 
 Testing documentation created for the Atelier e-commerce web application.
 
+🌐 **Application:** [Atelier Online Store] (https://shoe-store-frontend-five-sable.vercel.app/)
+
 The project focused on manual testing of the main customer and administrator workflows.
 
 Artifacts include:
