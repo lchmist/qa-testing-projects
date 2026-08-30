@@ -38,7 +38,7 @@ Manual and exploratory testing were supported by Chrome DevTools and API checks.
 
 ## Test Artifacts
 
-### Test Plan
+### Test Plan????
 
 Description of the testing strategy, scope, test environment, objectives and testing approach.
 
@@ -48,7 +48,7 @@ Description of the testing strategy, scope, test environment, objectives and tes
 
 High-level scenarios covering the main customer flows, administrator functionality and technical checks performed with Chrome DevTools.
 
-🔗 Link: ADD LINK
+🔗 Link: https://docs.google.com/spreadsheets/d/16HE3fJuCZTeYhPhe1T0C6NtGo_NDENZqwMGoBEBOfLg/edit?usp=sharing
 
 ### Test Cases
 
@@ -62,7 +62,7 @@ During the project, over 250 test cases were prepared. Some test cases were upda
 
 Mapping of application requirements to test cases to verify test coverage across the main functional areas.
 
-🔗 Link: ADD LINK
+🔗 Link: https://docs.google.com/spreadsheets/d/12VfabxT7KcQRfoCZjqgcHwTsy9BOnR8u0s8E2HUiSIQ/edit?usp=sharing
 
 ### Bug Reports
 
