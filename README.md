@@ -1,6 +1,6 @@
 # QA Testing Projects
 
-Junior QA Engineer with experience in web, mobile, and API testing. 
+QA Engineer with experience in web, mobile, and API testing. 
 
 I focus on analysis, bug detection, and improving product quality in real user scenarios.
 
@@ -21,6 +21,16 @@ Projects are organized into separate branches for easier navigation.
 ## Projects
 
 ### Web testing
+
+**[Atelier E-commerce Application](https://shoe-store-frontend-five-sable.vercel.app/)**
+
+- Test plan and test scenarios
+- Over 250 test cases
+- Requirement Traceability Matrix (RTM)
+- 26 bug reports
+- Retesting and regression testing
+- Chrome DevTools and API checks
+
 **Conduit**
 - Test plan  
 - Test cases  
