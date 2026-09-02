@@ -27,7 +27,7 @@ The testing was based on the following checklist areas:
 
 The goal was to verify whether the Evernote mobile application works according to expected mobile application quality requirements, including application behavior after launch, background mode, navigation, network conditions, screen orientation, usability, performance, and recovery after interruptions.
 
-## Repository structure
+## Repository structure!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ```text
 .
