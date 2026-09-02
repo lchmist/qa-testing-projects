@@ -52,13 +52,24 @@ Projects are organized into separate branches for easier navigation.
 ### Mobile Testing
 
 Applications tested:
-- IMDB  
-- Evernote  
-- Handyman  
+
+**IMDB**
+- Checklist-based mobile testing
+- Functional and non-functional testing
+- Bug reports
+
+**Evernote**
+- Checklist-based mobile testing
+- Functional and non-functional testing
+- Bug reports
+   
+**Handyman**
+-
 
 ### API Testing
 
 REST API testing using Postman:
-- Creating HTTP requests 
-- Designing test scenarios  
-- Validating responses (status codes, data)  
+- Creating and sending HTTP requests 
+- Designing API test scenarios  
+- Validating status codes and response data
+- Writing basic Postman test scripts
