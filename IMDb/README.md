@@ -33,7 +33,6 @@ The goal was to verify whether the IMDb mobile application works according to ex
 ```text
 .
 ├── README.md
-├── checklist.md
 └── evidence/
     ├── screenshots/
     │   ├── bug_01_no_clear_internet_connection_message_jira.png
