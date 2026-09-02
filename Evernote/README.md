@@ -32,7 +32,6 @@ The goal was to verify whether the Evernote mobile application works according t
 ```text
 .
 ├── README.md
-├── checklist.md
 └── evidence/
     ├── screenshots/
     │   ├── bug_01_large_attachment_mobile_data_jira.png
