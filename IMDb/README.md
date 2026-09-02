@@ -32,13 +32,8 @@ The goal was to verify whether the IMDb mobile application works according to ex
 ```text
 .
 ├── README.md
-├── checklist.md
-└── evidence/
-    ├── screenshots/
-    │   ├── bug_01_no_clear_internet_connection_message_jira.png
-    │   └── bug_02_insecure_password_policy_jira.png
-    └── videos/
-        └── bug_01_no_clear_internet_connection_message.mp4
+└── evidence/screenshots
+└── evidence/videos
 ```
 
 ## Reported defects
