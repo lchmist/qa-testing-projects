@@ -27,18 +27,14 @@ The testing was based on the following checklist areas:
 
 The goal was to verify whether the Evernote mobile application works according to expected mobile application quality requirements, including application behavior after launch, background mode, navigation, network conditions, screen orientation, usability, performance, and recovery after interruptions.
 
-## Repository structure!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+## Repository structure
 
 ```text
 .
 ├── README.md
-├── checklist.md
-└── evidence/
-    ├── screenshots/
-    │   ├── bug_01_large_attachment_mobile_data_jira.png
-    │   └── bug_02_landscape_more_menu_cut_jira.png
-    └── videos/
-        └── bug_01_large_attachment_mobile_data.mp4
+└── evidence/screenshots
+└── evidence/videos
+
 ```
 
 ## Reported defects
